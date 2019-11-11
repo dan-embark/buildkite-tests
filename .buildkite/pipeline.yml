@@ -1,6 +1,5 @@
 steps:
   - commands:
-    - "cd"
-    - "\"C:\\Program Files\\PowerShell\\6\\pwsh.exe\" .\\test-annoate.ps1"
+    - "\"C:\\Program Files\\PowerShell\\6\\pwsh.exe\" .\\test-annotate.ps1"
     agents:
     - "queue=es-dan"
